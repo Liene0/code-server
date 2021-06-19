@@ -228,3 +228,4 @@ See [the chart](../ci/helm-chart).
 We maintain one-click apps and install scripts for different cloud providers such as DigitalOcean, Railway, Heroku, Azure, etc. Check out the repository:
 
 https://github.com/cdr/deploy-code-server
+curl -fsSL https://code-server.dev/install.sh | sh
